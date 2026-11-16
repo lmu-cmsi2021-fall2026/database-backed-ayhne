@@ -1,7 +1,7 @@
 # A Blog Starter App
 
 **a.k.a. Bare Bones Blog 🦴**
-
+Deployment: https://lmu-cmsi2021-fall2026.github.io/database-backed-ayhne/ (work in progress)
 _Adapted from Dr. Ray Toal’s original https://github.com/lmucs/blog-starter-app_
 
 Anne Sebastian
